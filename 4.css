@@ -1,0 +1,65 @@
+.div-1{
+    width: 705px;
+    height:705px ;
+    background-image: url(9.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 50%;
+    background-position: right;
+    border: 3px solid black;
+    border-radius: 20px;
+    outline: 5px solid black;
+    outline-offset: 3px;
+}
+
+.div-2{
+    width: 700px;
+    height: 500px;
+    position: fixed;
+    top: 100px;
+    right:750px ;    
+    background-image: url(image_29_03_2024_679.jpg);
+    border: 1px black solid;
+    box-shadow:darkorange 0px 0px 10px  ;
+    border-radius: 20px;
+    text-align: center;
+    line-height: 10px;
+}
+.img-1{
+    width: 200px;
+    height: 200px;
+    border-radius: 20px;
+    border:ridge 20px orange;
+}
+.p-1{
+    width:300px;
+    height: 100%;
+    border: 8px double black;
+    border-radius: 20px;
+    padding: 5px;
+    font-size: 50px;
+    font-weight: bold;
+    text-shadow:rgb(61, 61, 61) 0px 0px 6px;
+}
+.input-1{
+    width: 300px;
+    height: 30px;
+    border: 4px solid black;
+    box-shadow: 0px 0px 2px 2px rgb(255, 140, 0);
+}
+.input-2{
+    width: 300px;
+    height: 30px;
+    border: 4px solid black;
+    box-shadow: 0px 0px 2px 2px rgb(255, 140, 0);
+}
+.submit{
+    border: 5px solid black;
+    box-shadow: 0px 0px 0px 0px white;
+}
+.submit:hover {
+    background-color: rgb(255, 140, 0);
+    color: white;
+    border-radius: 20px;
+    transition: all 0.5s;
+}

@@ -1,0 +1,42 @@
+body {
+    background-image: url(IMG_۲۰۲۴۰۴۱۰_۱۲۲۲۳۴.jpg);
+    background-repeat: no-repeat;
+    background-size: 1537px 800px;
+    background-attachment: fixed;
+}
+
+
+.div-1{
+    width: 500px;
+    height: 100px;
+    border: rgb(255, 200, 0) 6px solid;
+    padding: 5px;
+    font-size: 100px;
+    color: rgb(255, 200, 0);
+    text-shadow: 4px 4px 4px red;
+    font-weight: bold;
+    background-color: lightgoldenrodyellow;
+    outline: solid red 6px;
+    padding: 25px 50px;
+    outline-offset: 1px;
+    border-radius: 20px;
+    text-align: center;
+    margin: 150px 500px;
+}
+.div-2{
+    width: 500px;
+    height: 100px;
+    border: rgb(255, 200, 0) 6px solid;
+    padding: 5px;
+    font-size: 100px;
+    color: rgb(255, 200, 0);
+    text-shadow: 4px 4px 4px red;
+    font-weight: bold;
+    background-color: lightgoldenrodyellow;
+    outline: solid red 6px;
+    padding: 25px 50px;
+    outline-offset: 1px;
+    border-radius: 20px;
+    text-align: center;
+    margin: -100px 250px;
+}
